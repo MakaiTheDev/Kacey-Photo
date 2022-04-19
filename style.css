@@ -82,7 +82,7 @@ i{
 
 .showcase-img{
   min-height: 50vh;
-  background: linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.1)), url("images/bg-img.jpg") no-repeat center / cover;
+  background: url("images/bg-img.jpg") no-repeat center / cover;
   background-attachment: fixed;
 }
 
