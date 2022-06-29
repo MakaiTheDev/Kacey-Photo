@@ -1,6 +1,6 @@
 # Kacey-Photo
 Check out Kacey-Photo. Kacey-K is one of the best photographer I know! Hire her!!!
-*imaginary person btw*
+
 
 ![Screenshot (170)](https://user-images.githubusercontent.com/96732813/163921462-94abb484-7674-45e7-b28b-99a6bfdc9e99.png)
 
